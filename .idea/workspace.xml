@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="115d19e3-8229-4c78-af0d-aa65f283d409" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/djdataproject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="djdataenv/" />
     <ignored mask="." />
@@ -303,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510828467983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commited">
+      <created>1510829060866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510829060866</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -336,7 +347,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit to repo" />
     <MESSAGE value="ignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore file" />
+    <MESSAGE value="commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
