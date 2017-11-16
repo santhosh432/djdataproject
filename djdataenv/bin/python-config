@@ -1,4 +1,4 @@
-#!/home/yskcusat/djdataproject/djdataenv/bin/python
+#!/home/arisysk/PycharmProjects/djdataproject/djdataenv/bin/python
 
 import sys
 import getopt
