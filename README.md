@@ -11,6 +11,6 @@ $ source djdataenv/bin/activate
 $ cd djdataproject
 $ pip install -r requirement.txt
 
-If everythin is installed properly...then run
+If everything is installed properly...then run
 
 $ python manage.py runserver
